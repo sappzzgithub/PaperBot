@@ -1,11 +1,11 @@
-# Research-BOT 🧠📚 - AI Research Paper Assistant
+# PaperBot 🧠📚 - AI Research Paper Assistant
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Sentence-Transformers](https://img.shields.io/badge/Sentence_Transformers-000000?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Research-BOT is an AI-powered chatbot that helps you interact with research papers through natural language questions. It can process various document formats and provide intelligent answers based on the paper's content.
+PaperBot is an AI-powered chatbot that helps you interact with research papers through natural language questions. It can process various document formats and provide intelligent answers based on the paper's content.
 
 ## ✨ Features
 
@@ -40,7 +40,7 @@ Research-BOT is an AI-powered chatbot that helps you interact with research pape
 1. Clone the repository:
    ```bash
    git clone https://github.com/sangsthita/Research-BOT-.git
-   cd Research-BOT-
+   cd PaperBot-
 
 
 ### Steps to run the Project on your machine 
