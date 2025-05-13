@@ -2,8 +2,7 @@
 
 import google.generativeai as genai
 
-# 🔑 Just update this variable when your API key expires
-GEMINI_API_KEY = "AIzaSyD-veKTOB_j9YZfUw9uEQhRjYn9Rter4J0"
+GEMINI_API_KEY = "AIzaSyDUEbgFtW_ZCPQFOtE2TqyeTFs48f4ix6M"
 
 # Configure Gemini
 genai.configure(api_key=GEMINI_API_KEY)

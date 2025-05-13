@@ -5,3 +5,4 @@ PyMuPDF
 sentence-transformers
 transformers
 python-dotenv
+PyPDF2
